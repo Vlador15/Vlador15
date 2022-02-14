@@ -5,8 +5,8 @@
 ## :book: Обо мне  
 - 🖥 Занимаюсь backend разработкой
 - 💼 Учусь на 3 курсе
-
-**🔧 Мой технологический стек:** 
+ 
+<h1 align="center">🔧 Мой технологический стек: </h1>
 <p align="center">
   <a href="https://html.com/">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -36,15 +36,20 @@
   </a>
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?logo=mongodb">
-  </a>
-  
+  </a> 
 </p>
  
-   
-   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Связь+со+мной:)](https://git.io/typing-svg)  
-- [Вконтакте](vk.com/c_o_d_e_r)
-- [WhatsApp](https://wa.me/79854280745)
+<h1 align="center"> 🤝 Социальные сети: </h1>
+  <p align="center">
+    <a href="https://vk.com/c_o_d_e_r">
+      <img src="https://img.shields.io/badge/vk-146bc2?&style=for-the-badge&logo=vk&logoColor=white">
+    </a>
+    <a href="https://wa.me/79854280745">
+      <img src="https://img.shields.io/badge/WhatsApp-12976e?&style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+  </p>
+</h1>
+ 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Используемые+языки:)](https://git.io/typing-svg)  
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=vlador15)  
