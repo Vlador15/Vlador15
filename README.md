@@ -67,15 +67,7 @@
  <li>Pet-project: конвертер валют</li>
  <li>Pet-project: рисование по пикселям (canvas)</li>
 </ul>
-* Agas Cloud (в разработке)
-* Мебельный магазин DoReMi
-* Небольшой интернет магазин  
-* Pet-project: Расписание для ВУЗа
-* Pet-project: Опросник для частной медицинской клиники
-* Pet-project: чат-бот для VK
-* Pet-project: сокращение ссылок
-* Pet-project: конвертер валют
-* Pet-project: рисование по пикселям (canvas)
+
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Используемые+языки:)](https://git.io/typing-svg)  
