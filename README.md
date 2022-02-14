@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?logo=mongodb">
+    <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
   </a> 
 </p>
  
