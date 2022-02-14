@@ -57,7 +57,7 @@
 
 <h3> 📄 Последние проекты: </h3>
 - Agas Cloud (в разработке)
-- Мебельный магазин DoReMi <span><img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></span>
+- Мебельный магазин DoReMi <span><img src="https://img.shields.io/badge/NODE.JS-339933?&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?&logo=mongodb&logoColor=white"></span>  
 - Небольшой интернет магазин (node.js/mysql)
 - Pet-project: сокращение ссылок
 - Pet-project: рисование по пикселям (canvas)
