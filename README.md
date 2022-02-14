@@ -2,15 +2,17 @@
 
 ### Я <a href="vk.com/c_o_d_e_r" target="_blank">Vlad Kucher</a>, и я занимаюсь backend разработкой
 
-<h1 align="center">
+<h1>
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Обо мне  
 </h1> 
-Меня зовут Влад Кучер. Я javascript junior backend developer 💻.  
-Учусь на 3 курсе по направление: информатика и вычислительная техника.💼   
-Активно развиваюсь и изучаю новые технологии 🚀.  
+<p>
+ Меня зовут Влад Кучер. Я javascript junior backend developer 💻.  
+ Учусь на 3 курсе по направление: информатика и вычислительная техника.💼   
+ Активно развиваюсь и изучаю новые технологии 🚀.  
+</p>
  
-<h1 align="center">🔧 Мой технологический стек: </h1>
-<p align="center">
+<h1>🔧 Мой технологический стек: </h1>
+<p>
   <a href="https://html.com/" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   </a>
@@ -45,8 +47,8 @@
   </a> 
 </p>
  
-<h1 align="center"> 🤝 Социальные сети: </h1>
-  <p align="center">
+<h1> 🤝 Социальные сети: </h1>
+  <p>
     <a href="https://vk.com/c_o_d_e_r" target="_blank">
       <img src="https://img.shields.io/badge/vk-146bc2?&style=for-the-badge&logo=vk&logoColor=white">
     </a>
