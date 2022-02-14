@@ -1,10 +1,10 @@
-# Добро пожаловать! 👋
+<h2> Добро пожаловать! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"> </h2>
 
-<h1>
+<h3>
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Обо мне  
-</h1> 
+</h3> 
  
-💻 Меня зовут Влад Кучер. Я javascript junior backend developer.   
+💻 Меня зовут <a href="https://vk.com/c_o_d_e_r" target="_blank">Влад Кучер</a>. Я JavaScript junior backend developer.   
 💼 Учусь на 3 курсе по направление: информатика и вычислительная техника.   
  🚀 Активно развиваюсь и изучаю новые технологии.  
  
@@ -54,6 +54,13 @@
     </a>
   </p>
 </h1>
+
+<h3> 📄 Последние проекты: </h3>
+- Agas Cloud (в разработке)
+- Мебельный магазин DoReMi <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?logo=mongodb">  
+- Небольшой интернет магазин (node.js/mysql)
+- Pet-project: сокращение ссылок
+- Pet-project: рисование по пикселям (canvas)
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Используемые+языки:)](https://git.io/typing-svg)  
