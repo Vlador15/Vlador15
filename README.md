@@ -2,7 +2,7 @@
 
 ### Я <a href="vk.com/c_o_d_e_r" target="_blank">Vlad Kucher</a>, и я занимаюсь backend разработкой
 
-**Мой технологический стек:**
+**[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+технологический+стек:)](https://git.io/typing-svg)  **
 - Node.js (express, socket.io и др.)
 - HTML (ejs) / CSS (scss) / JS
 - MongoDB (mongoose) / mysql (по документации)
