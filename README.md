@@ -1,16 +1,15 @@
-### Hi there 👋
+#Привет! 👋
 
-<!--
-**Vlador15/Vlador15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Я <a href="vk.com/c_o_d_e_r" target="_blank">Vlad Kucher</a>, и я занимаюсь backend разработкой
 
-Here are some ideas to get you started:
+**Мой технологический стек:**
+- Node.js (express, socket.io и др.)
+- HTML (ejs) / CSS (scss) / JS
+- MongoDB (mongoose) / mysql (по документации)
+- Сторонние API 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Связь+со+мной:)](https://git.io/typing-svg)
+[Вконтакте](vk.com/c_o_d_e_r)
+[WhatsApp] (https://wa.me/79854280745)
+
+ 
