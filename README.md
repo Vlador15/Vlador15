@@ -6,14 +6,39 @@
 - 🖥 Занимаюсь backend разработкой
 - 💼 Учусь на 3 курсе
 
-**Мой технологический стек:**
-![Node.js](https://img.shields.io/badge/code-node.js-brightgreen)
-- Node.js (express, socket.io и др.)
-- <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo"> HTML (ejs) 
-- <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo"> CSS (scss) 
-- <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo"> JS
-- MongoDB (mongoose) / mysql (по документации)
-- Сторонние API 
+**🔧 Мой технологический стек:** 
+<p align="center">
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a>
+  <br>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  </a>
+  <a href="https://www.json.org/json-en.html">
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://www.google.com/intl/en_in/chrome/">
+    <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
+  </a>
+  <br>
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?logo=mongodb">
+  </a>
+  
+</p>
  
    
    
