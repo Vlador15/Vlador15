@@ -9,7 +9,7 @@
  🚀 Активно развиваюсь и изучаю новые технологии.  
  
  
-<h1>🔧 Мой технологический стек: </h1>
+<h3>🔧 Мой технологический стек: </h3>
 <p>
   <a href="https://html.com/" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -44,7 +44,7 @@
   </a> 
 </p>
  
-<h1> 🤝 Социальные сети: </h1>
+<h3> 🤝 Социальные сети: </h3>
   <p>
     <a href="https://vk.com/c_o_d_e_r" target="_blank">
       <img src="https://img.shields.io/badge/vk-146bc2?&style=for-the-badge&logo=vk&logoColor=white">
