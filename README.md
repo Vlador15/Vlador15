@@ -1,7 +1,5 @@
 # Добро пожаловать! 👋
 
-### Я <a href="vk.com/c_o_d_e_r" target="_blank">Vlad Kucher</a>, и я занимаюсь backend разработкой
-
 <h1>
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Обо мне  
 </h1> 
