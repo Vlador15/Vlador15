@@ -25,14 +25,14 @@
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank">
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
-  </a>
- <br>
+  </a> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
   <a href="https://www.google.com/intl/en_in/chrome/" target="_blank">
     <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
   </a>
+  <br>
   <a href="https://socket.io/" target="_blank">
     <img src="https://img.shields.io/badge/socket.io-12976e?&style=for-the-badge&logo=socket.io&logoColor=white">
   </a> 
