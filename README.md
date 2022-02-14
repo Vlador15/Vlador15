@@ -1,4 +1,5 @@
-<h2> Добро пожаловать! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"> </h2>
+<h2> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добро+пожаловать!)](https://git.io/typing-svg) <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"> </h2>
 
 <h3>
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Обо мне  
@@ -69,6 +70,5 @@
 </ul>
 
  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Используемые+языки:)](https://git.io/typing-svg)  
+<h3> ⚒ Используемые язык: </3> 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=vlador15&layout=compact)  
