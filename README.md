@@ -46,18 +46,18 @@
 </p>
  
 <h3> 🤝 Социальные сети: </h3>
-  <p>
-    <a href="https://vk.com/c_o_d_e_r" target="_blank">
-      <img src="https://img.shields.io/badge/vk-146bc2?&style=for-the-badge&logo=vk&logoColor=white">
-    </a>
-    <a href="https://wa.me/79854280745" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-12976e?&style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-    <a href="mailto:vvvlador1@mail.ru" target="_blank">
-      <img src="https://img.shields.io/badge/mail.ru-005ff9?&style=for-the-badge&logo=mail.ru&logoColor=white">
-    </a> 
-  </p>
- 
+<p>
+  <a href="https://vk.com/c_o_d_e_r" target="_blank">
+    <img src="https://img.shields.io/badge/vk-146bc2?&style=for-the-badge&logo=vk&logoColor=white">
+  </a>
+  <a href="https://wa.me/79854280745" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-12976e?&style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="mailto:vvvlador1@mail.ru" target="_blank">
+    <img src="https://img.shields.io/badge/mail.ru-005ff9?&style=for-the-badge&logo=mail.ru&logoColor=white">
+  </a> 
+</p>
+  
 
 <h3> ➡️ Мои контакты: </h3>
 <ul>
@@ -66,17 +66,15 @@
 </ul>
 
 <h3> 📕 Последние проекты: </h3>
-<ul>
- <li>Agas Cloud (в разработке)</li>
- <li>Мебельный магазин DoReMi</li>
- <li>Мини интернет магазин </li>
- <li>Pet-project: Расписание для ВУЗа</li>
- <li>Pet-project: Опросник для частной медицинской клиники</li>
- <li>Pet-project: Рисование по пикселям (canvas)</li>
- <li>Pet-project: VK чат-бот для мебельного магазина DoReMi</li>
- <li>Pet-project: Сокращение ссылок</li>
- <li>Pet-project: Конвертер валют</li>
-</ul>
+<a href="#" target="_blank">E-commerce: Agas Cloud (в разработке)</a>
+<a href="https://github.com/Vlador15/shop-doremi" target="_blank">E-commerce: Мебельный магазин DoReMi</a>
+<a href="https://github.com/Vlador15/vk-chat-bot-for-doremi" target="_blank">E-commerce: Чат-бот для мебельного магазина DoReMi</a>
+<a href="https://github.com/Vlador15/med-quiz" target="_blank">E-commerce: Опросник для частной медицинской клиники</a>
+<a href="https://github.com/Vlador15/timetable" target="_blank">Pet-project: Расписание для ВУЗа</a> 
+<a href="https://github.com/Vlador15/mini-shop-mysql" target="_blank">Pet-project: Мини интернет магазин на mysql</a> 
+<a href="https://github.com/Vlador15/pixel" target="_blank">Pet-project: Рисование по пикселям (canvas)</a> 
+<a href="https://github.com/Vlador15/short-url" target="_blank">Pet-project: Сокращение ссылок</a>
+<a href="https://github.com/Vlador15/currency-converter" target="_blank">Pet-project: Конвертер валют</a>
 
  
 <h3> ⚒ Используемые языки: </3>   
