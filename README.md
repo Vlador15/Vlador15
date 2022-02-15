@@ -1,15 +1,16 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добро+пожаловать!) 
-
+<hr>
 <h3>
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Обо мне  
 </h3> 
- 
+
+<hr>
 👨 Меня зовут <a href="https://vk.com/c_o_d_e_r" target="_blank">Влад Кучер</a>.  
 💻 Я JavaScript junior backend developer.   
 💼 Учусь на 3 курсе по направлению: информатика и вычислительная техника.   
  🚀 Активно развиваюсь и изучаю новые технологии.  
- 
- 
+<hr>
+
 <h3>🔧 Мой технологический стек: </h3>
 <p>
   <a href="https://html.com/" target="_blank">
@@ -44,7 +45,8 @@
     <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
   </a> 
 </p>
- 
+<hr>
+
 <h3> 🤝 Социальные сети: </h3>
 <p>
   <a href="https://vk.com/c_o_d_e_r" target="_blank">
@@ -57,13 +59,14 @@
     <img src="https://img.shields.io/badge/mail.ru-005ff9?&style=for-the-badge&logo=mail.ru&logoColor=white">
   </a> 
 </p>
-  
+<hr>
 
 <h3> ➡️ Мои контакты: </h3>
 <ul>
  <li>Телефон: 89854280745</li>
  <li>Почта: vvvlador1@mail.ru</li> 
 </ul>
+<hr>
 
 <h3> 📕 Последние проекты: </h3>
 <ul>
@@ -95,7 +98,7 @@
   <a href="https://github.com/Vlador15/currency-converter" target="_blank">Pet-project: Конвертер валют</a>
  </li>
 </ul>
-
+<hr>
 
 ![](https://komarev.com/ghpvc/?username=vlador15&color=blueviolet)
  
