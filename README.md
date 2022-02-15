@@ -76,14 +76,14 @@
   <a href="https://github.com/Vlador15/shop-doremi" target="_blank">E-commerce: Мебельный магазин DoReMi</a>
  </li>
  <li>
+  <a href="https://github.com/Vlador15/timetable" target="_blank">Pet-project: Расписание для ВУЗа</a> 
+ </li>
+ <li>
   <a href="https://github.com/Vlador15/vk-chat-bot-for-doremi" target="_blank">E-commerce: Чат-бот для мебельного магазина DoReMi</a>
  </li>
  <li>
   <a href="https://github.com/Vlador15/med-quiz" target="_blank">E-commerce: Опросник для частной медицинской клиники</a>
- </li>
- <li>
-  <a href="https://github.com/Vlador15/timetable" target="_blank">Pet-project: Расписание для ВУЗа</a> 
- </li>
+ </li> 
  <li>
   <a href="https://github.com/Vlador15/mini-shop-mysql" target="_blank">Pet-project: Мини интернет магазин на mysql</a> 
  </li>
