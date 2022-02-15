@@ -60,13 +60,13 @@
 <ul>
  <li>Agas Cloud (в разработке)</li>
  <li>Мебельный магазин DoReMi</li>
- <li>Небольшой интернет магазин </li>
+ <li>Мини интернет магазин </li>
  <li>Pet-project: Расписание для ВУЗа</li>
  <li>Pet-project: Опросник для частной медицинской клиники</li>
- <li>Pet-project: чат-бот для VK</li>
+ <li>Pet-project: рисование по пикселям (canvas)</li>
+ <li>Pet-project: VK чат-бот для мебельного магазина DoReMi</li>
  <li>Pet-project: сокращение ссылок</li>
  <li>Pet-project: конвертер валют</li>
- <li>Pet-project: рисование по пикселям (canvas)</li>
 </ul>
 
  
