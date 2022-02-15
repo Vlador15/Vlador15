@@ -1,10 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добро+пожаловать!) 
-<hr>
+
 <h3>
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Обо мне  
 </h3> 
 
-<hr>
 👨 Меня зовут <a href="https://vk.com/c_o_d_e_r" target="_blank">Влад Кучер</a>.  
 💻 Я JavaScript junior backend developer.   
 💼 Учусь на 3 курсе по направлению: информатика и вычислительная техника.   
