@@ -57,9 +57,15 @@
       <img src="https://img.shields.io/badge/mail.ru-005ff9?&style=for-the-badge&logo=mail.ru&logoColor=white">
     </a> 
   </p>
-</h1>
+ 
 
-<h3> 📄 Последние проекты: </h3>
+<h3> ➡️ Мои контакты: </h3>
+<ul>
+ <li>Телефон: 89854280745</li>
+ <li>Почта: vvvlador1@mail.ru</li> 
+</ul>
+
+<h3> 📕 Последние проекты: </h3>
 <ul>
  <li>Agas Cloud (в разработке)</li>
  <li>Мебельный магазин DoReMi</li>
