@@ -1,4 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добро+пожаловать!)
+![](https://komarev.com/ghpvc/?username=vlador15&color=blueviolet)
 
 <h3>
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Обо мне  
