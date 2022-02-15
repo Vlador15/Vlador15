@@ -63,10 +63,10 @@
  <li>Мини интернет магазин </li>
  <li>Pet-project: Расписание для ВУЗа</li>
  <li>Pet-project: Опросник для частной медицинской клиники</li>
- <li>Pet-project: рисование по пикселям (canvas)</li>
+ <li>Pet-project: Рисование по пикселям (canvas)</li>
  <li>Pet-project: VK чат-бот для мебельного магазина DoReMi</li>
- <li>Pet-project: сокращение ссылок</li>
- <li>Pet-project: конвертер валют</li>
+ <li>Pet-project: Сокращение ссылок</li>
+ <li>Pet-project: Конвертер валют</li>
 </ul>
 
  
