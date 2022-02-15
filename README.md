@@ -53,6 +53,9 @@
     <a href="https://wa.me/79854280745" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-12976e?&style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
+    <a href="mailto:vvvlador1@mail.ru" target="_blank">
+      <img src="https://img.shields.io/badge/mail.ru-005ff9?&style=for-the-badge&logo=mail.ru&logoColor=white">
+    </a> 
   </p>
 </h1>
 
