@@ -43,6 +43,12 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
   </a> 
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/react-007AFF.svg?&style=for-the-badge&logo=react&logoColor=white">
+  </a> 
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/redux-7632BC.svg?&style=for-the-badge&logo=redux&logoColor=white">
+  </a> 
 </p>
 <hr>
 
