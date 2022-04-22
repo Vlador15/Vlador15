@@ -77,7 +77,7 @@
 <h3> 📕 Последние проекты: </h3>
 <ul>
  <li>
-  <a href="https://github.com/Vlador15/learning-project" target="_blank">E-commerce: Agas Cloud (в разработке)</a>
+  <a href="https://github.com/Vlador15/learning-project" target="_blank">E-commerce: Проект для онлайн обучения</a>
  </li>
  <li>
   <a href="https://github.com/Vlador15/shop-doremi" target="_blank">E-commerce: Мебельный магазин DoReMi</a>
