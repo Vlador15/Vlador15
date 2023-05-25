@@ -55,7 +55,8 @@
   </a> 
   <a href="https://www.atlassian.com/software/confluence" target="_blank">
     <img src="https://img.shields.io/badge/confluence-005CE8.svg?&style=for-the-badge&logo=confluence&logoColor=white">
-  </a>  
+  </a>   
+  <br>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-E44622.svg?&style=for-the-badge&logo=git&logoColor=white">
   </a> 
