@@ -46,14 +46,32 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/react-007AFF.svg?&style=for-the-badge&logo=react&logoColor=white">
   </a> 
-  <a href="https://redux.js.org/" target="_blank">
+  <a href="https://mobx.js.org/README.html" target="_blank">
     <img src="https://img.shields.io/badge/redux-7632BC.svg?&style=for-the-badge&logo=redux&logoColor=white">
   </a> 
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/mobx-DC5C12.svg?&style=for-the-badge&logo=mobx&logoColor=white">
+  </a> 
+  <a href="https://www.atlassian.com/ru/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/jira-023071.svg?&style=for-the-badge&logo=jira-software&logoColor=white">
+  </a> 
+  <a href="https://www.atlassian.com/software/confluence" target="_blank">
+    <img src="https://img.shields.io/badge/confluence-005CE8.svg?&style=for-the-badge&logo=confluence&logoColor=white">
+  </a>  
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-E44622.svg?&style=for-the-badge&logo=git&logoColor=white">
+  </a> 
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-008BD9.svg?&style=for-the-badge&logo=docker&logoColor=white">
+  </a>   
 </p>
 <hr>
 
 <h3> 🤝 Социальные сети: </h3>
 <p>
+  <a href="https://t.me/Vlador15" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-008BD9.svg?&style=for-the-badge&logo=telegram&logoColor=white">
+  </a> 
   <a href="https://vk.com/c_o_d_e_r" target="_blank">
     <img src="https://img.shields.io/badge/vk-146bc2?&style=for-the-badge&logo=vk&logoColor=white">
   </a>
