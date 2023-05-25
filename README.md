@@ -5,7 +5,7 @@
 </h3> 
 
 👨 Меня зовут <a href="https://vk.com/c_o_d_e_r" target="_blank">Влад Кучер</a>.  
-💻 Я JavaScript developer.   
+💻 Я JavaScript fullstack developer.   
 💼 Учусь на 4 курсе по направлению: информатика и вычислительная техника.   
  🚀 Активно развиваюсь и изучаю новые технологии.  
 <hr>
