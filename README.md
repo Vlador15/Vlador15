@@ -94,7 +94,7 @@
 <h3> 📕 Последние проекты: </h3>
 <ul>
  <li>
-  <a href="https://github.com/Vlador15/whatsAppChat" target="_blank">Pet-project: Mini-chat (интеграция с whatApp)</a>
+  <a href="https://github.com/Vlador15/whatsAppChat" target="_blank">Pet-project: Mini-chat (интеграция с WhatsApp)</a>
  </li>
  <li>
   <a href="https://github.com/Vlador15/learning-project" target="_blank">E-commerce: Проект для онлайн обучения</a>
