@@ -30,8 +30,7 @@
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank">
       <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&amp;logo=JSON&amp;logoColor=white">
-  </a>   
-  <br>
+  </a>    
   <a href="https://socket.io/" target="_blank">
       <img src="https://img.shields.io/badge/socket.io-12976e?&amp;style=for-the-badge&amp;logo=socket.io&amp;logoColor=white">
   </a> 
