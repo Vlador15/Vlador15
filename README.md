@@ -12,56 +12,76 @@
 
 <h3>🔧 Мой технологический стек: </h3>
 <p>
+  <a href="https://www.javascript.com/" target="_blank">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E">
+  </a>
   <a href="https://html.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=HTML5&amp;logoColor=white">
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=CSS3&amp;logoColor=white">
   </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a>
+  <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white">
+  </a> 
   <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white">
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank">
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  </a> 
-  <a href="https://socket.io/" target="_blank">
-    <img src="https://img.shields.io/badge/socket.io-12976e?&style=for-the-badge&logo=socket.io&logoColor=white">
-  </a> 
- 
-  <br>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
-  </a> 
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/react-007AFF.svg?&style=for-the-badge&logo=react&logoColor=white">
-  </a> 
-  <a href="https://mobx.js.org/README.html" target="_blank">
-    <img src="https://img.shields.io/badge/redux-7632BC.svg?&style=for-the-badge&logo=redux&logoColor=white">
-  </a> 
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/mobx-DC5C12.svg?&style=for-the-badge&logo=mobx&logoColor=white">
-  </a> 
-  <a href="https://www.atlassian.com/ru/software/jira" target="_blank">
-    <img src="https://img.shields.io/badge/jira-023071.svg?&style=for-the-badge&logo=jira-software&logoColor=white">
-  </a> 
-  <a href="https://www.atlassian.com/software/confluence" target="_blank">
-    <img src="https://img.shields.io/badge/confluence-005CE8.svg?&style=for-the-badge&logo=confluence&logoColor=white">
+      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&amp;logo=JSON&amp;logoColor=white">
   </a>   
   <br>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-E44622.svg?&style=for-the-badge&logo=git&logoColor=white">
+  <a href="https://socket.io/" target="_blank">
+      <img src="https://img.shields.io/badge/socket.io-12976e?&amp;style=for-the-badge&amp;logo=socket.io&amp;logoColor=white">
   </a> 
+  <a href="https://expressjs.com/" target="_blank">
+      <img src="https://img.shields.io/badge/express.js-000000?&amp;style=for-the-badge&amp;logo=Express&amp;logoColor=white">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white">
+  </a>  
+  <a href="https://reactjs.org/" target="_blank">
+      <img src="https://img.shields.io/badge/react-007AFF.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=white">
+  </a> 
+  <a href="https://mobx.js.org/README.html" target="_blank">
+      <img src="https://img.shields.io/badge/redux-7632BC.svg?&amp;style=for-the-badge&amp;logo=redux&amp;logoColor=white">
+  </a>  
+  <a href="https://redux.js.org/" target="_blank">
+      <img src="https://img.shields.io/badge/mobx-DC5C12.svg?&amp;style=for-the-badge&amp;logo=mobx&amp;logoColor=white">
+  </a> 
+  <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&amp;logo=material-ui&amp;logoColor=white">
+  </a>  
+  <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D">
+  </a> 
+  <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/nuxt.js-38495E?style=for-the-badge&amp;logo=nuxt.js&amp;logoColor=4FC08D">
+  </a> 
+
+  <br>
+  <a href="https://www.atlassian.com/ru/software/jira" target="_blank">
+      <img src="https://img.shields.io/badge/jira-023071.svg?&amp;style=for-the-badge&amp;logo=jira-software&amp;logoColor=white">
+  </a> 
+  <a href="https://www.atlassian.com/software/confluence" target="_blank">
+      <img src="https://img.shields.io/badge/confluence-005CE8.svg?&amp;style=for-the-badge&amp;logo=confluence&amp;logoColor=white">
+  </a>    
+  <a href="https://github.com/" target="_blank">
+      <img src="https://img.shields.io/badge/git-E44622.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white">
+  </a> 
+
+  <br>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-008BD9.svg?&style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/docker-008BD9.svg?&amp;style=for-the-badge&amp;logo=docker&amp;logoColor=white">
+  </a>   
+  <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/makefile-004BD9.svg?&amp;style=for-the-badge&amp;logo=makefile&amp;logoColor=white">
+  </a>   
+  <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white">
+  </a>   
+  <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white">
   </a>   
 </p>
 <hr>
