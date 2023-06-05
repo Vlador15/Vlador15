@@ -24,6 +24,7 @@
   <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white">
   </a> 
+ <br>
   <a href="https://nodejs.org/en/" target="_blank">
       <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white">
   </a>
@@ -40,6 +41,7 @@
   <a href="https://www.mongodb.com/" target="_blank">
       <img src="https://img.shields.io/badge/mongodb-3a7c4a.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white">
   </a>  
+ <br>
   <a href="https://reactjs.org/" target="_blank">
       <img src="https://img.shields.io/badge/react-007AFF.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=white">
   </a> 
