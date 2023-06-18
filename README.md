@@ -114,9 +114,14 @@
 
 <h3> 📕 Последние проекты: </h3>
 <ul>
- <li>
-  <a href="https://github.com/Vlador15/whatsAppChat" target="_blank">Pet-project: Mini-chat (интеграция с WhatsApp)</a>
+ <li>~ 2023 ~</li>
+ <li> 
+  <a href="https://github.com/Vlador15/selfCheckout-front" target="_blank">E-commerce: Главный экран для КСО</a>
  </li>
+ <li>
+  <a href="https://github.com/Vlador15/whatsAppChat" target="_blank">E-commerce: Mini-chat (интеграция с WhatsApp)</a>
+ </li>
+ <li>~ 2022 ~</li>
  <li>
   <a href="https://github.com/Vlador15/learning-project" target="_blank">E-commerce: Проект для онлайн обучения</a>
  </li>
